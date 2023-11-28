@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek Mahalick. I am a Mechanical Engineering.
+- 👋 Hi, I’m Abhishek Mahalick. I am a Mechanical Engineer.
 - 👀 I’m interested in learning new thing.
 - 🌱 I’m currently learning data science at IIT MADRAS.
 - 💞️ I’m looking to collaborate on github as learn more.
